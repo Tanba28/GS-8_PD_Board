@@ -1272,7 +1272,7 @@ F 0 "J1" H 10200 2467 50  0000 C CNN
 F 1 "Micro_SD_Card_Det_Hirose_DM3AT" H 10200 2376 50  0000 C CNN
 F 2 "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5" H 12300 2350 50  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" H 10250 1750 50  0001 C CNN
-F 4 "秋月電子" H 10250 1650 50  0001 C CNN "Agency"
+F 4 "akizuki" H 10250 1650 50  0001 C CNN "Agency"
 F 5 "DM3AT-SF-PEJM5" H 10250 1650 50  0001 C CNN "MPN"
 F 6 "http://akizukidenshi.com/catalog/g/gC-02395/" H 10250 1650 50  0001 C CNN "Link"
 	1    10250 1650
@@ -1371,7 +1371,7 @@ F 0 "C19" V 1050 4550 50  0000 L CNN
 F 1 "10u" V 1050 4450 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 1000 4500 50  0001 C CNN
 F 3 "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf" H 1000 4500 50  0001 C CNN
-F 4 "秋月電子" H 1000 4500 50  0001 C CNN "Agency"
+F 4 "akizuki" H 1000 4500 50  0001 C CNN "Agency"
 F 5 "GRM188R6YA106MA73D" H 1000 4500 50  0001 C CNN "MPN"
 F 6 "10uF" H 1000 4500 50  0001 C CNN "Value"
 F 7 "http://akizukidenshi.com/catalog/g/gP-13161/" H -1200 -200 50  0001 C CNN "Link"
@@ -1386,7 +1386,7 @@ F 0 "C20" V 1050 4700 50  0000 L CNN
 F 1 "10u" V 1050 4600 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 1000 4650 50  0001 C CNN
 F 3 "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf" H 1000 4650 50  0001 C CNN
-F 4 "秋月電子" H 1000 4650 50  0001 C CNN "Agency"
+F 4 "akizuki" H 1000 4650 50  0001 C CNN "Agency"
 F 5 "GRM188R6YA106MA73D" H 1000 4650 50  0001 C CNN "MPN"
 F 6 "10uF" H 1000 4650 50  0001 C CNN "Value"
 F 7 "http://akizukidenshi.com/catalog/g/gP-13161/" H -1200 -50 50  0001 C CNN "Link"
@@ -1655,6 +1655,9 @@ F 0 "U4" H 4570 6946 50  0000 R CNN
 F 1 "LPS22HB" H 4570 6855 50  0000 R CNN
 F 2 "Package_LGA:ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y" H 5000 6750 50  0001 C CNN
 F 3 "www.st.com/resource/en/datasheet/lps25hb.pdf" H 5050 6600 50  0001 C CNN
+F 4 "Digikey" H 0   0   50  0001 C CNN "Agency"
+F 5 "https://www.digikey.jp/product-detail/ja/stmicroelectronics/LPS22HBTR/497-16265-1-ND/5799917" H 0   0   50  0001 C CNN "Link"
+F 6 "LPS22HBTR" H 0   0   50  0001 C CNN "MPN"
 	1    5000 6950
 	1    0    0    -1  
 $EndComp
@@ -1692,7 +1695,7 @@ F 0 "C28" V 4500 6400 50  0000 L CNN
 F 1 "10u" V 4500 6300 50  0000 R CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 4450 6350 50  0001 C CNN
 F 3 "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA106MA73-01.pdf" H 4450 6350 50  0001 C CNN
-F 4 "秋月電子" H 4450 6350 50  0001 C CNN "Agency"
+F 4 "akizuki" H 4450 6350 50  0001 C CNN "Agency"
 F 5 "GRM188R6YA106MA73D" H 4450 6350 50  0001 C CNN "MPN"
 F 6 "10uF" H 4450 6350 50  0001 C CNN "Value"
 F 7 "http://akizukidenshi.com/catalog/g/gP-13161/" H 2250 1650 50  0001 C CNN "Link"
@@ -1868,7 +1871,7 @@ F 0 "D4" H 2250 955 50  0000 C CNN
 F 1 "RSX101VA" H 2250 864 50  0000 C CNN
 F 2 "Diode_SMD:D_TUMD2" V 2250 750 50  0001 C CNN
 F 3 "http://akizukidenshi.com/download/ds/rohm/rsx101vam30-j.pdf" V 2250 750 50  0001 C CNN
-F 4 "秋月電子" H 2250 750 50  0001 C CNN "Agency"
+F 4 "akizuki" H 2250 750 50  0001 C CNN "Agency"
 F 5 "http://akizukidenshi.com/catalog/g/gI-05951/" H 2250 750 50  0001 C CNN "Link"
 F 6 "RSX101VAM-30TR" H 2250 750 50  0001 C CNN "MPN"
 	1    2250 750 
@@ -1882,7 +1885,7 @@ F 0 "D5" H 2100 1850 50  0000 C CNN
 F 1 "RSX101VA" H 2500 1850 50  0000 C CNN
 F 2 "Diode_SMD:D_TUMD2" V 2250 1800 50  0001 C CNN
 F 3 "http://akizukidenshi.com/download/ds/rohm/rsx101vam30-j.pdf" V 2250 1800 50  0001 C CNN
-F 4 "秋月電子" H 2250 1800 50  0001 C CNN "Agency"
+F 4 "akizuki" H 2250 1800 50  0001 C CNN "Agency"
 F 5 "http://akizukidenshi.com/catalog/g/gI-05951/" H 2250 1800 50  0001 C CNN "Link"
 F 6 "RSX101VAM-30TR" H 2250 1800 50  0001 C CNN "MPN"
 	1    2250 1800
@@ -2224,7 +2227,7 @@ F 0 "D6" H 2100 3000 50  0000 C CNN
 F 1 "RSX101VA" H 2500 3000 50  0000 C CNN
 F 2 "Diode_SMD:D_TUMD2" V 2250 2950 50  0001 C CNN
 F 3 "http://akizukidenshi.com/download/ds/rohm/rsx101vam30-j.pdf" V 2250 2950 50  0001 C CNN
-F 4 "秋月電子" H 2250 2950 50  0001 C CNN "Agency"
+F 4 "akizuki" H 2250 2950 50  0001 C CNN "Agency"
 F 5 "http://akizukidenshi.com/catalog/g/gI-05951/" H 2250 2950 50  0001 C CNN "Link"
 F 6 "RSX101VAM-30TR" H 2250 2950 50  0001 C CNN "MPN"
 	1    2250 2950
