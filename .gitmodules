@@ -1,0 +1,6 @@
+[submodule "Firm/submodule/PSoC5LP-USBUART-with-FreeRTOS"]
+	path = Firm/submodule/PSoC5LP-USBUART-with-FreeRTOS
+	url = https://github.com/Tanba28/PSoC5LP-USBUART-with-FreeRTOS.git
+[submodule "Firm/submodule/PSoC5LP-CAN-with-FreeRTOS"]
+	path = Firm/submodule/PSoC5LP-CAN-with-FreeRTOS
+	url = https://github.com/Tanba28/PSoC5LP-CAN-with-FreeRTOS.git
