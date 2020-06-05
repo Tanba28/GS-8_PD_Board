@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PDSv3\template\Source Files\main.c">
 <ExpandedNodeIds>
 <v>PDSv3</v>
 <v>PDSv3\template</v>
@@ -29,9 +29,42 @@
 <v>PDSv3\template\template.cydwr\Flash Security</v>
 <v>PDSv3\template\template.cydwr\EEPROM</v>
 <v>PDSv3\template\Header Files</v>
+<v>PDSv3\template\Header Files\FreeRTOS\atomic.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\croutine.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\deprecated_definitions.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\device.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\event_groups.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\FreeRTOS.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\FreeRTOSConfig.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\list.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\message_buffer.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\mpu_prototypes.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\mpu_wrappers.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\portable.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\portmacro.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\projdefs.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\queue.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\semphr.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\stack_macros.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\StackMacros.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\stream_buffer.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\task.h</v>
+<v>PDSv3\template\Header Files\FreeRTOS\timers.h</v>
+<v>PDSv3\template\Header Files\CANBUS_FreeRTOS.h</v>
 <v>PDSv3\template\Header Files\cyapicallbacks.h</v>
+<v>PDSv3\template\Header Files\USBUART_FreeRTOS.h</v>
 <v>PDSv3\template\Source Files</v>
+<v>PDSv3\template\Source Files\FreeRTOS\heap_3.c</v>
+<v>PDSv3\template\Source Files\FreeRTOS\list.c</v>
+<v>PDSv3\template\Source Files\FreeRTOS\port.c</v>
+<v>PDSv3\template\Source Files\FreeRTOS\queue.c</v>
+<v>PDSv3\template\Source Files\FreeRTOS\tasks.c</v>
+<v>PDSv3\template\Source Files\FreeRTOS\timers.c</v>
+<v>PDSv3\template\Source Files\CANBUS_FreeRTOS.c</v>
 <v>PDSv3\template\Source Files\main.c</v>
+<v>PDSv3\template\Source Files\USBUART_FreeRTOS.c</v>
+<v>PDSv3\template\Generated_Source</v>
+<v>PDSv3\template\Generated_Source\PSoC5</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PDSv3</v>
@@ -48,9 +81,65 @@
 <v>PDSv3\template\template.cydwr\Flash Security</v>
 <v>PDSv3\template\template.cydwr\EEPROM</v>
 <v>PDSv3\template\Header Files</v>
+<v>PDSv3\template\Header Files\FreeRTOS</v>
+<v>PDSv3\template\Header Files\CANBUS_FreeRTOS.h</v>
 <v>PDSv3\template\Header Files\cyapicallbacks.h</v>
+<v>PDSv3\template\Header Files\USBUART_FreeRTOS.h</v>
 <v>PDSv3\template\Source Files</v>
+<v>PDSv3\template\Source Files\FreeRTOS</v>
+<v>PDSv3\template\Source Files\CANBUS_FreeRTOS.c</v>
 <v>PDSv3\template\Source Files\main.c</v>
+<v>PDSv3\template\Source Files\USBUART_FreeRTOS.c</v>
+<v>PDSv3\template\Generated_Source</v>
+<v>PDSv3\template\Generated_Source\PSoC5</v>
+<v>PDSv3\template\Generated_Source\PSoC5\CAN</v>
+<v>PDSv3\template\Generated_Source\PSoC5\CAN_EN</v>
+<v>PDSv3\template\Generated_Source\PSoC5\CAN_RX</v>
+<v>PDSv3\template\Generated_Source\PSoC5\CAN_TX</v>
+<v>PDSv3\template\Generated_Source\PSoC5\Clock_PWM</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cy_boot</v>
+<v>PDSv3\template\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>PDSv3\template\Generated_Source\PSoC5\LED_0</v>
+<v>PDSv3\template\Generated_Source\PSoC5\LED_1</v>
+<v>PDSv3\template\Generated_Source\PSoC5\LPS_CLK</v>
+<v>PDSv3\template\Generated_Source\PSoC5\LPS_CS</v>
+<v>PDSv3\template\Generated_Source\PSoC5\LPS_MISO</v>
+<v>PDSv3\template\Generated_Source\PSoC5\LPS_MOSI</v>
+<v>PDSv3\template\Generated_Source\PSoC5\PWM_Servo</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SD_CLK</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SD_CS</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SD_MISO</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SD_MOSI</v>
+<v>PDSv3\template\Generated_Source\PSoC5\Servo_Out</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SPIM_LPS</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SPIM_LPS_IntClock</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SPIM_SD</v>
+<v>PDSv3\template\Generated_Source\PSoC5\SPIM_SD_IntClock</v>
+<v>PDSv3\template\Generated_Source\PSoC5\Timer</v>
+<v>PDSv3\template\Generated_Source\PSoC5\timer_clock</v>
+<v>PDSv3\template\Generated_Source\PSoC5\USBUART</v>
+<v>PDSv3\template\Generated_Source\PSoC5\USBUART_Dm</v>
+<v>PDSv3\template\Generated_Source\PSoC5\USBUART_Dp</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydevice.h</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cyfitter.h</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>PDSv3\template\Generated_Source\PSoC5\cymetadata.c</v>
+<v>PDSv3\template\Generated_Source\PSoC5\project.h</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -71,11 +160,91 @@
 <ExpandedNodeIds>
 <v>PDSv3</v>
 <v>PDSv3\template</v>
+<v>PDSv3\template\CortexM3</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_EN.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_INT.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_RX.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_TX.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_TX_RX_func.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CANBUS_FreeRTOS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_PWM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\heap_3.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_0.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\list.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_CLK.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_CS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_MISO.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_MOSI.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\port.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Servo.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Servo_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\queue.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_CLK.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_CS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_MISO.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_MOSI.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Servo_Out.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS_INT.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS_IntClock.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD_INT.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD_IntClock.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\tasks.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\timer_clock.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\timers.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_episr.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_FreeRTOS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_hid.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_midi.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_msc.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_pm.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_std.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\template.elf</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\template.hex</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\template.map</v>
 <v>PDSv3\template\template.gpdsc</v>
 <v>PDSv3\template\template.rpt</v>
 <v>PDSv3\template\template_timing.html</v>
 </ExpandedNodeIds>
-<VisibleNodeIds />
+<VisibleNodeIds>
+<v>PDSv3</v>
+<v>PDSv3\template</v>
+<v>PDSv3\template\template.rpt</v>
+<v>PDSv3\template\template_timing.html</v>
+</VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
 <TreeKeysV2>
@@ -90,6 +259,24 @@
 <v>PDSv3\template\CY8C58LP Family Datasheet</v>
 <v>PDSv3\template\System Reference Guides</v>
 <v>PDSv3\template\System Reference Guides\cy_boot_v5_80</v>
+<v>PDSv3\template\CAN_v3_0.pdf</v>
+<v>PDSv3\template\cy_clock_v2_20</v>
+<v>PDSv3\template\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>PDSv3\template\cy_constant_v1_0</v>
+<v>PDSv3\template\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>PDSv3\template\cy_pins_v2_20</v>
+<v>PDSv3\template\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PDSv3\template\Gnd_v1_0.pdf</v>
+<v>PDSv3\template\LED_v1_0</v>
+<v>PDSv3\template\LED_v1_0\LED_v1_0.pdf</v>
+<v>PDSv3\template\PWM_v3_30.pdf</v>
+<v>PDSv3\template\Resistor_v1_0</v>
+<v>PDSv3\template\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>PDSv3\template\SPI_Master_v2_50</v>
+<v>PDSv3\template\SPI_Master_v2_50\SPI_Master_v2_50.pdf</v>
+<v>PDSv3\template\Timer_v2_80.pdf</v>
+<v>PDSv3\template\USBFS_v3_20.pdf</v>
+<v>PDSv3\template\ZeroTerminal.pdf</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>PDSv3</v>
@@ -98,6 +285,24 @@
 <v>PDSv3\template\CY8C58LP Family Datasheet</v>
 <v>PDSv3\template\System Reference Guides</v>
 <v>PDSv3\template\System Reference Guides\cy_boot_v5_80</v>
+<v>PDSv3\template\CAN_v3_0.pdf</v>
+<v>PDSv3\template\cy_clock_v2_20</v>
+<v>PDSv3\template\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>PDSv3\template\cy_constant_v1_0</v>
+<v>PDSv3\template\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>PDSv3\template\cy_pins_v2_20</v>
+<v>PDSv3\template\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>PDSv3\template\Gnd_v1_0.pdf</v>
+<v>PDSv3\template\LED_v1_0</v>
+<v>PDSv3\template\LED_v1_0\LED_v1_0.pdf</v>
+<v>PDSv3\template\PWM_v3_30.pdf</v>
+<v>PDSv3\template\Resistor_v1_0</v>
+<v>PDSv3\template\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>PDSv3\template\SPI_Master_v2_50</v>
+<v>PDSv3\template\SPI_Master_v2_50\SPI_Master_v2_50.pdf</v>
+<v>PDSv3\template\Timer_v2_80.pdf</v>
+<v>PDSv3\template\USBFS_v3_20.pdf</v>
+<v>PDSv3\template\ZeroTerminal.pdf</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
