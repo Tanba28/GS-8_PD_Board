@@ -4,3 +4,6 @@
 [submodule "Firm/submodule/PSoC5LP-CAN-with-FreeRTOS"]
 	path = Firm/submodule/PSoC5LP-CAN-with-FreeRTOS
 	url = https://github.com/Tanba28/PSoC5LP-CAN-with-FreeRTOS.git
+[submodule "Firm/submodule/LPS22HB-via-SPI"]
+	path = Firm/submodule/LPS22HB-via-SPI
+	url = https://github.com/Tanba28/LPS22HB-via-SPI.git

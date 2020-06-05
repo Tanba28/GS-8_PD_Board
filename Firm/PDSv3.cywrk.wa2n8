@@ -242,6 +242,82 @@
 <VisibleNodeIds>
 <v>PDSv3</v>
 <v>PDSv3\template</v>
+<v>PDSv3\template\CortexM3</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_EN.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_INT.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_RX.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_TX.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CAN_TX_RX_func.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CANBUS_FreeRTOS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_PWM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\heap_3.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_0.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\list.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_CLK.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_CS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_MISO.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\LPS_MOSI.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\port.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Servo.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\PWM_Servo_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\queue.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_CLK.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_CS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_MISO.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SD_MOSI.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Servo_Out.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS_INT.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS_IntClock.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_LPS_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD_INT.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD_IntClock.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\SPIM_SD_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\tasks.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\timer_clock.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\Timer_PM.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\timers.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_episr.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_FreeRTOS.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_hid.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_midi.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_msc.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_pm.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_std.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\template.elf</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\template.hex</v>
+<v>PDSv3\template\CortexM3\ARM_GCC_541\Debug\template.map</v>
+<v>PDSv3\template\template.gpdsc</v>
 <v>PDSv3\template\template.rpt</v>
 <v>PDSv3\template\template_timing.html</v>
 </VisibleNodeIds>
