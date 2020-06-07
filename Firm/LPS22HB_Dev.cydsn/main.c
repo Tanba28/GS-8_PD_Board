@@ -39,20 +39,28 @@ void UartEchoBackTask(){ /* Test */
 }
 
 void test(){
-    char buf[16];
+    char buf[64];
+    uint32_t time = 0;
+    int num=0;
     LPS22HB_DATA_CONTEINER_t lps22hb_data;
+    //LPS22HB_CONFIG_t lps22hb_config;
+    LPS22HBStart();
+    LPS22HBInitializeConfig();
+    
     LPS22HBWhoAmI();
-    LPS22HBSetODR(LPS22HB_ODR_25Hz);
-    LPS22HBSetDRDY(1);
+
     for(;;){
         xSemaphoreTake(xLPSBinarySemaphor,portMAX_DELAY);
+        time = 4294967296-Timer_ReadCounter();
+        
         LED_0_Write(~LED_0_Read());
-        taskENTER_CRITICAL();
-        lps22hb_data = LPS22HBUpdateData();
-        taskEXIT_CRITICAL();
-        sprintf(buf,"%7d %f\r\n",Timer_ReadCounter(),LPS22HBGetPress(lps22hb_data));
-        USBUARTPutString(buf,strlen(buf));
-        //vTaskDelay(135);
+        for(num = 0;num < 32;num++){
+            lps22hb_data = LPS22HBUpdateData();
+            
+            sprintf(buf,"%07d,%d,%f,%f\r\n",time,num,LPS22HBGetPress(lps22hb_data),LPS22HBGetTemp(lps22hb_data));
+            USBUARTPutString(buf,strlen(buf));
+            //vTaskDelay(135);
+        }
     }
 }
 
@@ -67,7 +75,7 @@ int main(void)
     
     Timer_Start();
     xLPSBinarySemaphor = xSemaphoreCreateBinary();
-    xSemaphoreGive(xLPSBinarySemaphor);
+    //xSemaphoreGive(xLPSBinarySemaphor);
     isr_1_StartEx(temp);
     FreeRtosStart();
     for(;;)
