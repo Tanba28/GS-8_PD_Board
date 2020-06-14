@@ -7,3 +7,6 @@
 [submodule "Firm/submodule/LPS22HB-via-SPI"]
 	path = Firm/submodule/LPS22HB-via-SPI
 	url = https://github.com/Tanba28/LPS22HB-via-SPI.git
+[submodule "Firm/submodule/PSoC5LP-FatFs-with-FreeRTOS"]
+	path = Firm/submodule/PSoC5LP-FatFs-with-FreeRTOS
+	url = https://github.com/Tanba28/PSoC5LP-FatFs-with-FreeRTOS.git
